@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "https://ggcaponetto.github.io/csb-9gxoi/static/css/main.9e2480eb.chunk.css",
-    "main.js": "https://ggcaponetto.github.io/csb-9gxoi/static/js/main.d993a684.chunk.js",
-    "main.js.map": "https://ggcaponetto.github.io/csb-9gxoi/static/js/main.d993a684.chunk.js.map",
+    "main.js": "https://ggcaponetto.github.io/csb-9gxoi/static/js/main.ef72e238.chunk.js",
+    "main.js.map": "https://ggcaponetto.github.io/csb-9gxoi/static/js/main.ef72e238.chunk.js.map",
     "runtime-main.js": "https://ggcaponetto.github.io/csb-9gxoi/static/js/runtime-main.2c9b5e23.js",
     "runtime-main.js.map": "https://ggcaponetto.github.io/csb-9gxoi/static/js/runtime-main.2c9b5e23.js.map",
-    "static/js/2.ff96524d.chunk.js": "https://ggcaponetto.github.io/csb-9gxoi/static/js/2.ff96524d.chunk.js",
-    "static/js/2.ff96524d.chunk.js.map": "https://ggcaponetto.github.io/csb-9gxoi/static/js/2.ff96524d.chunk.js.map",
+    "static/js/2.000d97d4.chunk.js": "https://ggcaponetto.github.io/csb-9gxoi/static/js/2.000d97d4.chunk.js",
+    "static/js/2.000d97d4.chunk.js.map": "https://ggcaponetto.github.io/csb-9gxoi/static/js/2.000d97d4.chunk.js.map",
     "index.html": "https://ggcaponetto.github.io/csb-9gxoi/index.html",
     "static/css/main.9e2480eb.chunk.css.map": "https://ggcaponetto.github.io/csb-9gxoi/static/css/main.9e2480eb.chunk.css.map",
-    "static/js/2.ff96524d.chunk.js.LICENSE.txt": "https://ggcaponetto.github.io/csb-9gxoi/static/js/2.ff96524d.chunk.js.LICENSE.txt"
+    "static/js/2.000d97d4.chunk.js.LICENSE.txt": "https://ggcaponetto.github.io/csb-9gxoi/static/js/2.000d97d4.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.2c9b5e23.js",
-    "static/js/2.ff96524d.chunk.js",
+    "static/js/2.000d97d4.chunk.js",
     "static/css/main.9e2480eb.chunk.css",
-    "static/js/main.d993a684.chunk.js"
+    "static/js/main.ef72e238.chunk.js"
   ]
 }
